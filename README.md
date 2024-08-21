@@ -18,8 +18,8 @@ This is a simple CRUD (Create, Read, Update, Delete) service built using Python 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your_repository_url>
-   cd flask_crud_service
+   git clone https://github.com/DevSa3eed/Ecloud
+   cd Ecloud
    ```
 
 2. **Create a Virtual Environment (Optional but Recommended)**:
